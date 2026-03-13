@@ -1,95 +1,57 @@
-<h1 align="center">📊 Student Spending Lab</h1>
+# 📊 Student Spending Lab
 
-<div align="center">
-<h3 align="center">Hi 👋, I'm Adarsh S Narayanan</h3>
-<p align="center">A passionate developer from India currently working on interactive web applications.</p>
+A responsive R Shiny web application designed to analyze student consumer spending behavior. It features an interactive dashboard providing statistical analysis, hypothesis testing, and dynamic visualizations of various expenditure demographics.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adarsh-s-narayanan&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-s-narayanan" />
-</p>
-</div>
+## 🔗 Important Links
+- **Live Web App**: [Student Spending Lab](https://adarshsnarayanan.shinyapps.io/student-spending-lab/)
+- **Data Collection Form**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeP6LlzWEARp-O2WxIO25dlJd8q1g_hjp_TpZ33tJBlwCT-7g/viewform)
+- **Raw Data Tracking**: [Google Sheets View](https://docs.google.com/spreadsheets/d/1LLdDgr6ZOiqwg_Cv-eDCz2XAvEV4UfKo9CNv02-X6yQ/edit?gid=1207902354#gid=1207902354)
 
-📝 Project Overview
+---
 
-This is an interactive R Shiny dashboard designed to analyze and visualize student spending patterns. The application compares spending habits between Hostelers and Day Scholars, evaluates budget adherence, and performs rigorous statistical hypothesis testing.
+## 📌 Key Features
 
-🔗 Project Links
+*   **Executive Summary**: Get an immediate overview with metric value boxes (Avg Monthly Spend, Highest Expense, Budget Overrun) and distribution charts comparing student segments.
+*   **Descriptive Statistics**: Explore summary statistics and data tables breaking down Mean & SD comparisons between subcategories like Hostelers and Day Scholars.
+*   **Visual Analytics**: Dive into in-depth UI cards featuring:
+    *   Radar Charts (spending profiles)
+    *   Stacked Bar Plots (absolute and proportional spending makeup)
+    *   Violin and Box plots (detecting extreme variations and outliers in funding sources)
+    *   Correlation Heatmaps (to discover variables that trend together)
+*   **Hypothesis Testing**: Built-in dynamic computational models showing results of ANOVA, Chi-Square, and Two-Sample T-tests along with plain-English insights interpreting the statistical outcomes.
+*   **Regression Analysis**: Interactive actual spending vs. available funds (Budget) scatterplots and regression lines measuring behavioral financial scaling.
+*   **Simulated Fallback Data**: Robust mock data generator included—the app operates smoothly even if the main CSV dataset stream (`Student_Spending_Relevant_Data_*.csv`) is absent.
 
-Live Application: Student Spending Lab on ShinyApps.io — Scan QR Code
+---
 
-Data Collection (Form): Google Form — Scan QR Code
+## 🛠 Tech Stack & Requirements
 
-Data Source (Sheet): Google Sheets Data — Scan QR Code
+This app was built utilizing the powerful `shiny` framework overlaid with `bslib` for Bootstrap styling and `plotly` for interactive graphs. 
 
-🚀 App Features
+To run this application locally, you must have an R environment installed along with the following required libraries:
 
-1. Executive Summary
+*   `shiny`
+*   `ggplot2`
+*   `dplyr`
+*   `tidyr`
+*   `DT`
+*   `bslib`
+*   `plotly`
+*   `bsicons`
 
-Quick Metrics: Instant visibility into Average Monthly Spend and Budget Overrun percentages.
+---
 
-Interactive Distributions: Real-time density plots and impulse buy breakdowns.
+## 🚀 How to Run Locally
 
-2. Visual Analytics
-
-Radar Charts: Visualize spending "profiles" to see which categories dominate.
-
-Violin & Boxplots: Analyze the spread and density of expenses across funding sources.
-
-Correlation Heatmap: Identify linear relationships between different spending categories.
-
-3. Statistical Analysis
-
-Hypothesis Testing: Includes ANOVA, Chi-Square, and T-Tests.
-
-Regression Analysis: Models the relationship between Budget and Actual Spend.
-
-🛠️ Built With
-
-<div align="center">
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</p>
-</div>
-
-💻 Local Setup
-
-Install R and RStudio.
-
-Install Libraries: install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "DT", "bslib", "plotly", "bsicons"))
-
-Data File: Place Student_Spending_Relevant_Data_2026-03-06_1751.csv in the root folder.
-
-Run: shiny::runApp()
-
-📈 Github Stats
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-s-narayanan&show_icons=true&locale=en&layout=compact" alt="adarsh-s-narayanan" />
-</p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-s-narayanan&show_icons=true&locale=en" alt="adarsh-s-narayanan" />
-</p>
-
-📫 Connect with me:
-
-<p align="left">
-
-🔭 I’m currently working on websites
-
-🌱 I’m currently learning React, Nodejs, HTML and CSS
-
-🤝 I’m looking for help with Backend
-
-📧 Reach me at: adarshsnarayanan123@gmail.com
-</p>
-
-<p align="left">
-<a href="https://instagram.com/tikwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tikwick" height="30" width="40" /></a>
-<a href="https://discord.gg/7ddPABKk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
+1. **Install Prerequisites**: If this is your first time, install the required packages using your RConsole or RStudio:
+   ```R
+   install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "DT", "bslib", "plotly", "bsicons"))
+   ```
+2. **Clone / Download**: Save the application code in a file named `app.R` in a new local directory.
+3. **Data Retrieval (Optional)**: If you possess the raw dataset (`Student_Spending_Relevant_Data_*.csv`), place it alongside your `app.R` file. If not, the application will automatically populate utilizing a dynamically generated deterministic simulation so you can still preview its design and function.
+4. **Launch Application**: 
+   Open your R terminal or RStudio console, set your working directory to the folder containing your application, and execute:
+   ```R
+   shiny::runApp("app.R")
+   ```
+   *The application will launch on localhost in your default web browser.*
