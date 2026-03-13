@@ -1,85 +1,95 @@
-📊 Student Spending: Advanced Statistical Lab
+<h1 align="center">📊 Student Spending Lab</h1>
 
-An interactive Shiny Web Application designed for deep-dive statistical analysis of student spending patterns. This tool bridges the gap between raw data and actionable financial insights, comparing "Hostelers" vs. "Day Scholars" across various expense categories.
+<div align="center">
+<h3 align="center">Hi 👋, I'm Adarsh S Narayanan</h3>
+<p align="center">A passionate developer from India currently working on interactive web applications.</p>
 
-🚀 Live Demo
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adarsh-s-narayanan&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-s-narayanan" />
+</p>
+</div>
 
-Experience the interactive dashboard here:
+📝 Project Overview
 
-Interactive Lab Demo
+This is an interactive R Shiny dashboard designed to analyze and visualize student spending patterns. The application compares spending habits between Hostelers and Day Scholars, evaluates budget adherence, and performs rigorous statistical hypothesis testing.
 
-🧐 Features
+🔗 Project Links
 
-Executive Summary: High-level KPIs including Average Monthly Spend, Top Expense Categories, and Budget Overrun percentages.
+Live Application: Student Spending Lab on ShinyApps.io — Scan QR Code
 
-Visual Analytics:
+Data Collection (Form): Google Form — Scan QR Code
 
-Radar Plots: Visualizing spending "fingerprints."
+Data Source (Sheet): Google Sheets Data — Scan QR Code
 
-Violin Plots: Showing density and distribution of expenses.
+🚀 App Features
 
-Correlation Heatmaps: Identifying relationships between different spending habits.
+1. Executive Summary
 
-Statistical Testing:
+Quick Metrics: Instant visibility into Average Monthly Spend and Budget Overrun percentages.
 
-ANOVA: Testing for significance between student types.
+Interactive Distributions: Real-time density plots and impulse buy breakdowns.
 
-Chi-Square: Identifying dependencies between funding sources and impulse buys.
+2. Visual Analytics
 
-T-Tests: Rigorous mean comparison between groups.
+Radar Charts: Visualize spending "profiles" to see which categories dominate.
 
-Predictive Regression: A linear regression model exploring the relationship between planned budgets and actual expenditures.
+Violin & Boxplots: Analyze the spread and density of expenses across funding sources.
 
-🛠️ Installation & Local Setup
+Correlation Heatmap: Identify linear relationships between different spending categories.
 
-To run this app locally, ensure you have R and RStudio installed.
+3. Statistical Analysis
 
-Clone the repository:
+Hypothesis Testing: Includes ANOVA, Chi-Square, and T-Tests.
 
-git clone [https://github.com/YOUR_USERNAME/student-spending-lab.git](https://github.com/YOUR_USERNAME/student-spending-lab.git)
-cd student-spending-lab
+Regression Analysis: Models the relationship between Budget and Actual Spend.
 
+🛠️ Built With
 
-Install required packages:
-Open R or RStudio and run:
+<div align="center">
+<p align="left">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+</p>
+</div>
 
-install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "DT", "bslib", "plotly", "bsicons"))
+💻 Local Setup
 
+Install R and RStudio.
 
-Run the App:
+Install Libraries: install.packages(c("shiny", "ggplot2", "dplyr", "tidyr", "DT", "bslib", "plotly", "bsicons"))
 
-library(shiny)
-runApp()
+Data File: Place Student_Spending_Relevant_Data_2026-03-06_1751.csv in the root folder.
 
+Run: shiny::runApp()
 
-📊 Data Structure
+📈 Github Stats
 
-The application expects a CSV file (Student_Spending_Relevant_Data_...csv) with the following key columns:
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-s-narayanan&show_icons=true&locale=en&layout=compact" alt="adarsh-s-narayanan" />
+</p>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-s-narayanan&show_icons=true&locale=en" alt="adarsh-s-narayanan" />
+</p>
 
-Student.Type: (Categorical) e.g., Hosteler, Day Scholar.
+📫 Connect with me:
 
-Funding.Source: (Categorical) e.g., Parents, Scholarship, Job.
+<p align="left">
 
-Budget: (Numeric) Planned monthly budget.
+🔭 I’m currently working on websites
 
-Food, Travel, Academic, Lifestyle, Mobile: (Numeric) Actual monthly spend per category.
+🌱 I’m currently learning React, Nodejs, HTML and CSS
 
-Impulse.Category: (Categorical) Primary area of unplanned spending.
+🤝 I’m looking for help with Backend
 
-Note: If the CSV is missing, the app includes a calibrated mock data generator for demonstration purposes.
+📧 Reach me at: adarshsnarayanan123@gmail.com
+</p>
 
-🧪 Methodologies Used
-
-Descriptive Statistics: Mean, Median, and Standard Deviation calculations.
-
-Inferential Statistics: One-Way ANOVA and Independent Samples T-Tests.
-
-Association Testing: Pearson’s Chi-squared test for categorical independence.
-
-Linear Modeling: Simple Linear Regression ($Y = \beta_0 + \beta_1X + \epsilon$).
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Developed by Adarsh S Narayanan
+<p align="left">
+<a href="https://instagram.com/tikwick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tikwick" height="30" width="40" /></a>
+<a href="https://discord.gg/7ddPABKk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
