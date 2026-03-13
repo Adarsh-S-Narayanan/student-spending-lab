@@ -1,0 +1,148 @@
+Student Type,Funding Source,Budget (Adj),Food (Adj),Travel (Adj),Academic (Adj),Lifestyle (Adj),Mobile (Adj),Impulse Category
+Day Scholar,Parental Allowance,1000,300,400,200,200,300,Food
+Hosteler,Parental Allowance,2700,3500,300,500,1100,200,Food
+Day Scholar,Parental Allowance,2500,500,500,800,1100,400,Fashion
+Day Scholar,Student Loan,1000,600,300,200,0,200,Food
+Day Scholar,Parental Allowance,7000,900,1500,400,2000,700,Gadgets
+Hosteler,Parental Allowance,2700,4000,300,600,1600,200,Food
+Day Scholar,Parental Allowance,10000,6000,8000,500,3200,400,Fashion
+Hosteler,Parental Allowance,500,400,200,300,1000,300,Fashion
+Day Scholar,Parental Allowance,7000,2400,1500,0,6900,400,Gadgets
+Hosteler,Parental Allowance,300,200,300,100,400,0,Gaming
+Hosteler,Parental Allowance,500,400,1000,400,0,300,Food
+Hosteler,Student Loan,4400,1000,2500,600,2700,800,Gaming
+Hosteler,Parental Allowance,3300,600,100,100,0,400,Food
+Day Scholar,Parental Allowance,2000,300,700,1700,1500,200,Food
+Day Scholar,Parental Allowance,2000,500,1400,500,1000,300,Food
+Day Scholar,Parental Allowance,2000,500,500,500,500,300,Food
+Day Scholar,Parental Allowance,5000,2500,2500,300,1300,400,Food
+Day Scholar,Part-time Job,5000,2500,1100,400,3000,700,Food
+Hosteler,Parental Allowance,3300,200,600,300,0,300,Food
+Day Scholar,Parental Allowance,1000,600,100,1000,0,0,Food
+Hosteler,Parental Allowance,500,1100,800,1100,1200,400,Food
+Hosteler,Parental Allowance,200,400,1400,8100,2100,500,Food
+Hosteler,Student Loan,3300,2300,900,1800,1500,800,Food
+Hosteler,Scholarship,3100,2100,900,1800,1000,800,Gadgets
+Day Scholar,Scholarship,7000,1400,1600,2000,1400,800,Gadgets
+Hosteler,Scholarship,3800,2300,1000,1800,1900,300,Gaming
+Hosteler,Scholarship,2600,2800,1000,3600,800,800,Food
+Hosteler,Scholarship,7600,2400,1100,1700,4600,300,Food
+Day Scholar,Parental Allowance,4800,1500,1700,2000,1100,800,Gaming
+Hosteler,Parental Allowance,5200,2300,1400,3000,3000,800,Gaming
+Day Scholar,Parental Allowance,5000,600,800,1300,400,700,Food
+Hosteler,Scholarship,7500,2600,1200,3200,3900,300,None
+Hosteler,Parental Allowance,8000,2300,1300,3400,5200,300,None
+Day Scholar,Scholarship,4000,1100,2100,2600,700,800,Fashion
+Day Scholar,Parental Allowance,7100,1500,1800,1500,1200,300,Food
+Day Scholar,Student Loan,7000,1500,1700,1900,1300,800,Gadgets
+Hosteler,Scholarship,3800,2300,1200,1900,900,300,Gadgets
+Hosteler,Parental Allowance,3500,1900,1100,3100,2600,800,Gaming
+Hosteler,Student Loan,3300,3000,800,1200,1200,800,None
+Hosteler,Student Loan,2200,2700,700,2600,1600,300,None
+Day Scholar,Parental Allowance,5600,1500,1200,2100,1200,800,Food
+Hosteler,Scholarship,3000,2100,900,2400,900,800,None
+Day Scholar,Student Loan,4600,1500,1200,2200,1200,300,Food
+Day Scholar,Scholarship,6900,1300,1100,1700,800,300,Fashion
+Hosteler,Parental Allowance,5800,2700,1100,3500,3500,800,Food
+Hosteler,Parental Allowance,2700,1600,900,2700,1400,800,Gadgets
+Hosteler,Parental Allowance,5100,1900,1200,3700,5300,800,Gadgets
+Day Scholar,Scholarship,3700,1000,1400,1500,1400,800,Gadgets
+Day Scholar,Parental Allowance,6800,1200,1100,2900,500,300,Gadgets
+Day Scholar,Scholarship,5700,1400,1400,1400,1700,800,Gaming
+Hosteler,Scholarship,2300,1900,1100,1700,1400,800,Fashion
+Hosteler,Parental Allowance,2300,2300,700,1900,1200,300,Gadgets
+Day Scholar,Parental Allowance,4900,1600,1200,2000,1000,300,Food
+Hosteler,Parental Allowance,3500,2100,700,2800,500,300,Food
+Day Scholar,Student Loan,6400,1200,1300,1700,1000,300,Food
+Hosteler,Parental Allowance,2600,2300,900,1300,1200,300,Food
+Hosteler,Student Loan,2300,2200,1200,1700,2100,300,Food
+Day Scholar,Parental Allowance,5600,1200,1900,1700,1700,300,Gadgets
+Hosteler,Scholarship,3000,2600,1400,3000,1400,300,None
+Hosteler,Student Loan,2900,1900,700,1300,1200,800,Food
+Day Scholar,Student Loan,5700,900,1900,1400,1100,800,Food
+Hosteler,Scholarship,2200,2400,1400,2100,1800,300,Food
+Hosteler,Parental Allowance,2200,2400,900,1500,1000,800,Gadgets
+Day Scholar,Scholarship,7300,1100,1400,1700,1300,800,None
+Hosteler,Parental Allowance,3900,2700,1400,2800,1600,300,Gaming
+Day Scholar,Scholarship,5200,1400,1800,2600,1000,300,Food
+Day Scholar,Student Loan,3600,1100,1800,3800,1000,300,Food
+Hosteler,Parental Allowance,3800,2600,1100,1700,1100,300,Fashion
+Hosteler,Scholarship,6700,2200,900,1800,5000,800,Gadgets
+Hosteler,Part-time Job,3700,2100,1100,2400,1400,300,Food
+Hosteler,Scholarship,2600,2300,1300,1300,700,300,Gaming
+Day Scholar,Parental Allowance,6700,1100,1200,1800,1100,300,None
+Hosteler,Parental Allowance,2300,1800,1000,2500,1600,300,None
+Day Scholar,Parental Allowance,5000,1300,1700,1900,1100,300,Food
+Day Scholar,Student Loan,7400,1000,1000,3300,1600,800,Food
+Hosteler,Scholarship,3300,2200,1100,1300,900,800,Fashion
+Hosteler,Parental Allowance,2000,2100,1300,2300,1400,300,Food
+Hosteler,Parental Allowance,3700,2700,700,1600,700,300,Food
+Hosteler,Parental Allowance,3100,2100,1200,1800,1500,300,Gadgets
+Hosteler,Scholarship,2000,2200,1000,1900,900,300,Gaming
+Hosteler,Parental Allowance,2300,2600,700,1800,1600,300,None
+Day Scholar,Parental Allowance,4200,1400,1200,3100,600,800,Gaming
+Hosteler,Student Loan,5100,2000,1100,2500,5000,800,Food
+Hosteler,Parental Allowance,3500,2500,1300,1300,1200,300,Food
+Day Scholar,Parental Allowance,5100,800,1200,2100,1500,300,Food
+Hosteler,Scholarship,2900,2300,1100,1800,1700,300,Gaming
+Day Scholar,Parental Allowance,5300,1200,2300,2600,1000,300,Gaming
+Hosteler,Parental Allowance,2400,2800,1000,2000,1800,300,None
+Hosteler,Parental Allowance,2800,2100,900,2700,800,800,Fashion
+Hosteler,Student Loan,3900,2200,1400,3600,2300,300,Food
+Day Scholar,Scholarship,5100,1400,1200,2200,1500,300,Fashion
+Day Scholar,Parental Allowance,6800,1200,2200,1700,1200,300,Food
+Day Scholar,Student Loan,5400,1700,1900,2600,1700,300,Gadgets
+Hosteler,Scholarship,381400,8000,15000,410000,519200,7100,Fashion
+Day Scholar,Part-time Job,10000,2500,6000,2500,1800,400,Food
+Day Scholar,Parental Allowance,7700,1100,1800,1300,600,300,Food
+Day Scholar,Parental Allowance,7700,1600,1800,1800,1100,300,Gaming
+Hosteler,Student Loan,4400,2100,900,2500,1200,300,Gaming
+Hosteler,Parental Allowance,2700,1500,600,3100,700,300,Food
+Hosteler,Student Loan,3800,1600,1300,1700,1400,300,Gaming
+Day Scholar,Student Loan,7000,1600,1600,1500,700,300,None
+Hosteler,Parental Allowance,3600,2100,1300,1800,1300,800,Food
+Hosteler,Parental Allowance,2600,2800,1200,2100,600,300,Food
+Day Scholar,Student Loan,7400,1200,1200,2100,700,800,Gaming
+Hosteler,Parental Allowance,2200,1600,1200,2600,1400,300,Food
+Day Scholar,Student Loan,4700,1000,1600,1900,1200,300,None
+Day Scholar,Student Loan,14100,1200,1400,2300,3600,300,Fashion
+Hosteler,Parental Allowance,2200,2500,900,1300,1000,800,None
+Day Scholar,Parental Allowance,10200,1400,1300,1600,4000,300,Fashion
+Hosteler,Part-time Job,4000,1900,800,2500,1300,300,Food
+Day Scholar,Parental Allowance,7900,1400,1300,1900,1000,800,Food
+Hosteler,Student Loan,5600,2100,900,1000,4000,300,Food
+Hosteler,Parental Allowance,3800,2400,1300,2900,500,800,Food
+Hosteler,Parental Allowance,3400,1400,1200,2500,1000,300,Gaming
+Day Scholar,Student Loan,6200,1300,1700,2400,1400,800,Gaming
+Hosteler,Student Loan,5200,2600,600,1400,2900,300,None
+Day Scholar,Student Loan,4000,1300,1800,900,1600,300,Food
+Hosteler,Parental Allowance,7300,2100,600,2100,2900,300,Gaming
+Day Scholar,Parental Allowance,6200,1400,1600,2700,1600,300,Food
+Day Scholar,Parental Allowance,6800,1500,1900,2000,1100,300,Food
+Hosteler,Student Loan,4000,2500,700,1200,1300,300,Food
+Hosteler,Student Loan,2700,2400,700,2000,900,800,Food
+Hosteler,Parental Allowance,2700,2600,1300,2300,1200,300,Fashion
+Hosteler,Parental Allowance,2200,1700,1100,1400,1100,800,Food
+Day Scholar,Parental Allowance,3600,1300,1700,900,1600,300,Food
+Day Scholar,Parental Allowance,6700,800,2100,1100,1000,300,Food
+Day Scholar,Parental Allowance,4400,900,1200,2400,900,300,None
+Day Scholar,Student Loan,7400,1100,1300,2100,800,300,Food
+Day Scholar,Parental Allowance,5300,1600,1200,2200,1200,300,Food
+Hosteler,Parental Allowance,2900,1900,1100,1700,1500,300,Food
+Day Scholar,Parental Allowance,12300,1400,1900,1500,2400,300,None
+Hosteler,Scholarship,5900,2100,1200,1800,2300,300,Food
+Hosteler,Student Loan,4300,2000,1300,1100,1300,800,Food
+Day Scholar,Parental Allowance,7100,1000,1400,2300,900,300,None
+Hosteler,Student Loan,6200,1800,1100,2100,4500,300,Food
+Day Scholar,Parental Allowance,5300,1200,1600,1900,1100,300,Food
+Day Scholar,Parental Allowance,4500,1200,2000,2000,1200,300,None
+Day Scholar,Parental Allowance,7600,1500,1900,2300,500,300,Food
+Hosteler,Parental Allowance,2200,1900,600,1600,1400,300,Food
+Hosteler,Parental Allowance,2900,2300,900,2300,1300,800,Gaming
+Hosteler,Parental Allowance,4000,1700,1300,1700,1000,800,Gaming
+Day Scholar,Scholarship,7100,1400,2100,2200,1000,800,Food
+Hosteler,Parental Allowance,3600,2800,1100,3300,1400,300,Gaming
+Hosteler,Student Loan,3800,2500,600,2400,1400,300,Food
+Hosteler,Parental Allowance,3400,2100,800,3100,700,300,Fashion
+Day Scholar,Parental Allowance,1000,2000,1500,100,3500,400,Food
+Hosteler,Parental Allowance,500,200,300,200,0,0,Fashion
