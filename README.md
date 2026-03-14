@@ -7,9 +7,11 @@ This project serves as a Syllabus Compliance Map for MCA Statistical Labs, provi
 
 ## 🔗 Project Resources
 
-- Live Web App: Student Spending Lab  
-- Data Collection Form: Google Form  
-- Raw Data Tracking: Google Sheets View  
+- 🌐 **Live Web App**: [Student Spending Lab](https://adarshsnarayanan.shinyapps.io/student-spending-lab/)
+
+- 📝 **Data Collection Form**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeP6LlzWEARp-O2WxIO25dlJd8q1g_hjp_TpZ33tJBlwCT-7g/viewform)
+
+- 📊 **Raw Data Tracking**: [Google Sheets View](https://docs.google.com/spreadsheets/d/1LLdDgr6ZOiqwg_Cv-eDCz2XAvEV4UfKo9CNv02-X6yQ/edit?gid=1207902354#gid=1207902354)
 
 ---
 
